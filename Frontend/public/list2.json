@@ -1,0 +1,146 @@
+[
+    {
+        "id": "1",
+        "name": "Story Book 1",
+        "title": "Adventures of the Brave Explorer",
+        "price": "0",
+        "category": "Free",
+        "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg"
+    },
+    {
+        "id": "2",
+        "name": "Story Book 2",
+        "title": "Mystery of the Hidden Cave",
+        "price": "0",
+        "category": "Free",
+        "image": "https://img.freepik.com/free-vector/stack-books-realistic-style_23-2148483274.jpg"
+    },
+    {
+        "id": "3",
+        "name": "Educational Book",
+        "title": "Introduction to Quantum Physics",
+        "price": "0",
+        "category": "Free",
+        "image": "https://img.freepik.com/free-vector/open-book_23-2147625294.jpg"
+    },
+    {
+        "id": "4",
+        "name": "Health & Fitness",
+        "title": "Yoga for Beginners",
+        "price": "0",
+        "category": "Free",
+        "image": "https://img.freepik.com/free-vector/illustration-education-concept_53876-20601.jpg"
+    },
+    {
+        "id": "5",
+        "name": "Art & Design",
+        "title": "Modern Sketching Techniques",
+        "price": "0",
+        "category": "Free",
+        "image": "https://img.freepik.com/free-vector/different-books-stack-white-background_1308-113422.jpg"
+    },
+    {
+        "id": "6",
+        "name": "Cooking Book",
+        "title": "Quick Recipes for Beginners",
+        "price": "0",
+        "category": "Free",
+        "image": "https://img.freepik.com/free-vector/illustration-book-stack_53876-20711.jpg"
+    },
+    {
+        "id": "7",
+        "name": "Fictional Tales",
+        "title": "The Lost Kingdom Chronicles",
+        "price": "150",
+        "category": "Entertainment",
+        "image": "https://img.freepik.com/free-vector/illustration-bookstore-logo_53876-20607.jpg"
+    },
+    {
+        "id": "8",
+        "name": "Science & Nature",
+        "title": "Wonders of the Universe",
+        "price": "200",
+        "category": "Scientific",
+        "image": "https://img.freepik.com/free-vector/education-logo-concept_23-2148517962.jpg"
+    },
+    {
+        "id": "9",
+        "name": "Biography",
+        "title": "The Life of Tesla",
+        "price": "300",
+        "category": "Biography",
+        "image": "https://img.freepik.com/free-vector/realistic-style-books-different-positions_23-2148838361.jpg"
+    },
+    {
+        "id": "10",
+        "name": "Children's Book",
+        "title": "Bedtime Stories Collection",
+        "price": "120",
+        "category": "Kids",
+        "image": "https://img.freepik.com/free-vector/open-book-with-many-kids-inside_1308-73324.jpg"
+    },
+    {
+        "id": "11",
+        "name": "Fantasy",
+        "title": "Realm of the Dragon Riders",
+        "price": "180",
+        "category": "Fantasy",
+        "image": "https://img.freepik.com/free-vector/stack-books-school-library-concept_53876-154052.jpg"
+    },
+    {
+        "id": "12",
+        "name": "Self-Help",
+        "title": "Mindset: Unlock Your Potential",
+        "price": "250",
+        "category": "Development",
+        "image": "https://img.freepik.com/free-vector/different-books-flat-style-design_23-2148505004.jpg"
+    },
+    {
+        "id": "13",
+        "name": "Travel Guide",
+        "title": "Exploring Europe on a Budget",
+        "price": "300",
+        "category": "Travel",
+        "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg"
+    },
+    {
+        "id": "14",
+        "name": "Horror Story",
+        "title": "The Haunting of Shadow Hill",
+        "price": "170",
+        "category": "Horror",
+        "image": "https://img.freepik.com/free-vector/illustration-open-book_53876-20694.jpg"
+    },
+    {
+        "id": "15",
+        "name": "Business Insights",
+        "title": "Startup Success Stories",
+        "price": "400",
+        "category": "Business",
+        "image": "https://img.freepik.com/free-vector/stack-books_23-2148186922.jpg"
+    },
+    {
+        "id": "16",
+        "name": "Poetry Collection",
+        "title": "Whispers of the Soul",
+        "price": "130",
+        "category": "Poetry",
+        "image": "https://img.freepik.com/free-vector/book-stack-background_23-2148798445.jpg"
+    },
+    {
+        "id": "17",
+        "name": "Technology Book",
+        "title": "Artificial Intelligence Demystified",
+        "price": "250",
+        "category": "Technology",
+        "image": "https://img.freepik.com/free-vector/flat-design-bookstore_23-2149311186.jpg"
+    },
+    {
+        "id": "18",
+        "name": "Historical Fiction",
+        "title": "Echoes of the Ancient Empire",
+        "price": "190",
+        "category": "Historical",
+        "image": "https://img.freepik.com/free-vector/realistic-open-book_23-2147787070.jpg"
+    }
+]
