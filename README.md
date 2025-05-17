@@ -20,4 +20,4 @@ A full-stack bookstore web application built with MongoDB, Express.js, React.js,
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/Gurkaran017/bookstore.git
+   git clone https://github.com/Gurkaran017/BookStore-App.git
